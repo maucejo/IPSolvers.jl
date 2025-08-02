@@ -1,6 +1,6 @@
-name = "IPSolvers"
+name = "InverseProblems"
 uuid = "0a55c760-1160-4ed6-b9f1-b545e474d1f0"
-authors = ["maucejo <mathieu.aucejo@gmail.com> and contributors"]
+authors = ["maucejo"]
 version = "0.1.0"
 
 [compat]
