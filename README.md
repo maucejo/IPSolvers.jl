@@ -1,1 +1,1 @@
-# InverseProblems
+# InverseProblems.jl
